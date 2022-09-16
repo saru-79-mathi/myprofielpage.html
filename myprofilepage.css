@@ -1,0 +1,34 @@
+img
+{
+    width: 200px;
+}
+nav
+{
+    text-align: right;
+    font-size: 20px;
+}
+ul{
+    text-decoration: none;
+}
+ul span
+{
+    margin-right: 20px;
+}
+h1{
+    font-size: 100px;
+    font-weight: 100;
+    background-color: rgb(25, 100, 100);
+}
+p{
+    font-size: 30px;
+}
+h2{
+    font-size: 40px;
+    background-color: pink;
+}
+tr{
+    font-size:30px ;
+}
+li{
+    font-size: 30px;
+}
